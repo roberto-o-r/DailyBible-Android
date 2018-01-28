@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "392385641165",
+    "firebase_url": "https://dailybible-android.firebaseio.com",
+    "project_id": "dailybible-android",
+    "storage_bucket": "dailybible-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392385641165:android:a159a2b4b43823a7",
+        "android_client_info": {
+          "package_name": "com.isscroberto.dailybibleandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392385641165-t4g0f5ecsqntjahbk28ir5153r4mnac0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isscroberto.dailybibleandroid",
+            "certificate_hash": "14f1df60324012d1b3fad923ebc1d4726bbcf9ff"
+          }
+        },
+        {
+          "client_id": "392385641165-crh79ojbvjujiv86uoeve50mt8mlle8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMO98GWFq1L_1eEZ3nRM4NLF6gERtBL48"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392385641165-crh79ojbvjujiv86uoeve50mt8mlle8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
