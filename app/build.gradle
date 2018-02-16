@@ -21,8 +21,8 @@ android {
         applicationId "com.isscroberto.dailybibleandroid"
         minSdkVersion 17
         targetSdkVersion 25
-        versionCode 6
-        versionName "17.11.30"
+        versionCode 7
+        versionName "18.02.16"
     }
     buildTypes {
         release {
