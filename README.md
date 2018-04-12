@@ -1,4 +1,4 @@
-# Daily Bible App
+# Daily Bible
 
 https://play.google.com/store/apps/details?id=com.isscroberto.dailybibleandroid
 
